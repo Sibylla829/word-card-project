@@ -1,0 +1,1898 @@
+peril,严重危险
+bargain,廉价货,交易
+hesitate,犹豫,踌躇
+exploit,开发,剥削,利用
+simulate,模仿,模拟
+isolate,使隔离,使孤立
+fragment,碎片,片段 分裂
+merit,优点,价值 值得
+frustrate,使沮丧,阻挠
+migrate,迁移,移居
+subsidy,补贴,补助金
+provoke,激怒,挑起
+restrain,抑制,约束
+tentative,试探性的,暂定的
+transmit,传输,传播,发射
+vague,模糊的,含糊的
+verify,核实,证明
+abandon,抛弃,放弃
+accelerate,加速,促进
+adequate,足够的,适当的
+allocate,分配,分派
+ambiguous,模棱两可的
+anticipate,预料,预期
+assemble,集合,组装
+assign,分配,指派
+assume,假定,承担,认为
+attain,达到,获得
+attribute,归因于 属性
+ban,禁止 禁令
+bare,赤裸的,光秃的
+betray,背叛,泄露
+boost,促进,提高 推动
+breed,繁殖,培育 品种
+budget,预算 做预算
+burden,负担 加重压于
+cancel,取消,删去
+capture,捕获,占领 俘获
+cease,停止,终止
+challenge,挑战 质疑
+characteristic,典型的
+circulate,循环,流通
+collapse,倒塌,崩溃 垮台
+combat,战斗 对抗
+commence,开始
+compel,强迫,迫使
+compensate,补偿,赔偿
+compile,汇编,编纂
+conceive,设想,构思
+concentrate,集中,浓缩
+condemn,谴责,判处
+confirm,确认,证实
+conflict,冲突 抵触
+confront,面对,遭遇
+consent,同意 准许
+conserve,保存,保护
+considerable,相当大的
+consistent,一致的
+constitute,构成,组建
+consult,咨询,查阅
+consume,消耗,消费
+contemporary,当代的
+contest,竞赛 争夺,辩驳
+contradict,反驳,与…矛盾
+contribute,贡献,投稿,促成
+convene,召集,集合
+conventional,传统的
+convert,转换,转化
+convey,传达,运输
+convince,使信服,说服
+corrupt,腐败的 腐化
+crash,碰撞,坠毁 事故
+creative,创造性的
+criteria,标准,准则
+cultivate,培养,耕作
+decay,腐烂,衰退 衰败
+deceive,欺骗,蒙蔽
+declare,宣布,声明
+decline,下降,谢绝 衰退
+dedicate,致力于,奉献
+deduce,推论,推断
+defend,防御,辩护
+define,下定义,限定
+delegate,代表 委派
+deliberate,故意的
+demonstrate,证明,展示
+deny,否认,拒绝给予
+depart,离开,出发
+depict,描绘,描述
+depress,使沮丧,压低
+derive,源自,获得
+descend,下降,遗传
+deserve,应得,值得
+designate,指定,命名
+desperate,极度渴望的
+destination,目的地
+detect,察觉,探测
+deteriorate,恶化,退化
+determine,决定,测定
+devise,设计,发明
+diminish,减少,降低
+discard,丢弃,抛弃
+disclose,揭露,公开
+discourage,使气馁,阻碍
+dismiss,解散,不予考虑
+displace,取代,迫使离开
+distinct,截然不同的
+distinguish,区分,辨别
+distort,扭曲,歪曲
+distribute,分配,分发
+divert,转移,使转向
+dominate,支配,占优势
+donate,捐赠,捐献
+doom,厄运 注定
+dramatic,戏剧性的,显著的
+dwell,居住,细想
+ease,安逸 缓解
+elaborate,详尽的 详述
+eliminate,消除,排除
+emerge,浮现,出现
+emphasize,强调,着重
+enforce,实施,强制执行
+enhance,提高,增强
+entail,需要,使承担
+enterprise,企业,事业心
+entertain,娱乐,款待
+entitle,使享有权利,命名
+equivalent,等价的
+erect,直立的 建造
+escape,逃跑,避开 逃避
+essence,本质,精髓
+establish,建立,确立
+evaluate,评估,评价
+evaporate,蒸发,消失
+evolve,进化,逐步发展
+exceed,超过,超出
+exclude,排除,不包括
+execute,执行,实施
+exert,运用,施加
+exhaust,耗尽,使疲惫
+exhibit,展示 展品
+exploit,利用,开发,剥削
+explore,探索,探究
+expose,暴露,揭露
+extend,延伸,扩大
+external,外部的,外表的
+facilitate,促进,使便利
+faint,微弱的 晕倒
+feasible,可行的
+feedback,反馈
+fertile,肥沃的,丰富的
+fiction,小说,虚构
+filter,过滤器 过滤
+finite,有限的
+flourish,繁荣,兴旺
+fluctuate,波动,起伏
+forbid,禁止,不许
+forecast,预测 预报
+format,格式 格式化
+formulate,构想,制定
+foster,培养 收养的
+foundation,基础,基金会
+fragment,碎片 碎裂
+framework,框架,体系
+frustrate,挫败,使灰心
+function,功能 起作用
+fundamental,根本的
+generate,产生,生成
+genius,天才,天赋
+genuine,真实的,真诚的
+govern,统治,支配
+grant,授予 补助金
+guarantee,保证 担保
+guarantee,保证,保证书
+hamper,妨碍,束缚
+harness,马具 利用
+highlight,强调 亮点
+hinder,阻碍,妨碍
+hypothesis,假设,假说
+identical,完全相同的
+ignore,忽视,不理睬
+illustrate,说明,举例
+imitate,模仿,仿效
+immense,巨大的
+imply,暗示,意味着
+impose,强加,征收
+incentive,激励,刺激
+incident,事件,事变
+incline,倾向于 斜坡
+incorporate,合并,纳入
+index,索引,指数 编入索引
+indicate,表明,指示
+inevitable,不可避免的
+infer,推断,推论
+inferior,较差的,下级的
+inflict,使遭受,施加
+inherit,继承,承袭
+initiate,发起,启动
+inject,注入,注射
+injure,伤害,损害
+insight,洞察力,深刻见解
+inspect,检查,视察
+install,安装,安置
+instinct,本能,直觉
+institute,机构 设立
+instruct,指导,命令
+integrate,使一体化,整合
+integrity,正直,完整
+interfere,干涉,干扰
+internal,内部的,国内的
+interpret,解释,口译
+intervene,干预,介入
+intimate,亲密的,私人的
+invade,入侵,侵扰
+invest,投资,投入
+isolate,使孤立,隔离
+issue,问题,发行物 发布
+joint,联合的 关节
+justify,证明…合理
+lag,落后 滞后
+lean,倾斜,倚靠 瘦的
+liable,有责任的,易于
+liberal,开明的,自由的
+license,执照 许可
+likelihood,可能性
+limitation,局限,限制
+link,联系 连接
+logical,合乎逻辑的
+lump,块 归并
+maintain,维持,坚持,保养
+manifest,明显的 显示
+manipulate,操纵,操控
+margin,边缘,差额
+mask,面具 掩饰
+massive,大量的,巨大的
+mature,成熟的 成熟
+maximize,最大化
+measure,措施,测量 估量
+mechanic,技工 手工的
+mediate,调解,斡旋
+medium,媒介 中等的
+melt,融化,熔化
+merit,优点 值得
+migrate,迁移,移居
+minimum,最小值 最低的
+minor,较小的 未成年人
+mirror,镜子 反映
+mislead,误导,使误入歧途
+modify,修改,修饰
+monitor,监视器 监控
+moral,道德的 道德准则
+mortal,终有一死的 凡人
+motivate,激发,激励
+mutual,相互的,共同的
+narrow,狭窄的 缩小
+neglect,忽视 疏忽
+neutral,中立的
+nonetheless,尽管如此
+norm,规范,标准
+notify,通知,告知
+nourish,滋养,养育
+obscure,晦涩的 掩盖
+obstacle,障碍,阻碍
+obtain,获得,得到
+occupy,占据,忙于
+odd,古怪的,奇数的
+offset,抵消,弥补
+omit,省略,遗漏
+opponent,对手,反对者
+opportunity,机会,时机
+oppose,反对,反抗
+optimize,优化
+optional,可选择的
+orbit,轨道 沿轨道运行
+organic,有机的,器官的
+orient,使适应,确定方向
+origin,起源,出身
+ornament,装饰品 装饰
+outcome,结果,成果
+outer,外部的,外表的
+output,产量,输出 输出
+overall,总体的
+overwhelm,压倒,使不知所措
+pace,步伐 踱步
+parallel,平行的 平行线
+partial,部分的,偏袒的
+participate,参与,参加
+particle,微粒,颗粒
+passion,激情,酷爱
+passive,被动的
+patch,补丁 修补
+perceive,感知,察觉
+permanent,永久的,持久的
+permission,许可,允许
+persist,坚持,持续
+perspective,视角,远景
+pessimistic,悲观的
+petition,请愿书 请愿
+phase,阶段,时期
+phenomenon,现象
+philosophy,哲学,人生观
+physical,身体的,物质的
+pierce,刺穿,刺破
+pillar,支柱,栋梁
+pinch,捏,挤压 少量
+pivot,支点 旋转
+plague,瘟疫 困扰
+pledge,誓言 承诺
+plot,情节,阴谋 密谋
+plunge,投入,猛冲 跌落
+polish,擦亮,润色 光泽
+ponder,思索,考虑
+portable,便携的
+pose,造成,摆姿势 姿势
+positive,积极的,肯定的
+possess,拥有,支配
+postpone,推迟,延期
+potential,潜在的 潜力
+practical,实际的,实用的
+preach,宣讲,鼓吹
+precede,在…之前,领先
+precise,精确的,准确的
+predict,预言,预测
+predominant,占主导的
+preface,序言 作序
+prejudice,偏见 使抱有偏见
+preliminary,初步的
+preserve,保护,保存
+pressure,压力 施压
+presume,假定,推测
+pretend,假装,佯装
+prevail,盛行,获胜
+primary,主要的,初级的
+prime,首要的 全盛期
+primitive,原始的,简陋的
+principal,主要的 校长
+principle,原则,原理
+priority,优先,优先权
+private,私人的,私有的
+probe,探查 探测器
+proceed,继续进行
+process,过程 加工,处理
+proclaim,宣告,声明
+produce,生产 农产品
+productive,富有成效的
+profession,职业,行业
+profit,利润 获益
+profound,深刻的,深远的
+prohibit,禁止,阻止
+prominent,显著的,杰出的
+promote,促进,提升
+prompt,迅速的 促使
+proof,证据,证明
+proportion,比例,份额
+propose,提议,打算
+prospect,前景,展望
+prosper,繁荣,成功
+protect,保护,防护
+protest,抗议 反对
+prove,证明,证实
+provide,提供,供给
+provoke,激怒,引发
+pull,拉 拉力
+pursue,追求,从事
+puzzle,谜题 使困惑
+qualify,使具备资格,限定
+quest,探索,寻求
+quote,引用 引文
+radical,激进的,根本的
+rage,暴怒 肆虐
+raise,举起,筹集,提出
+random,随机的
+range,范围 变化,排列
+rare,稀有的,罕见的
+rate,比率 评估
+rational,理性的,合理的
+react,反应,作出回应
+realistic,现实的,务实的
+realm,领域,王国
+rear,后部的 养育
+reason,理由 推理
+recall,回忆,召回
+recede,后退,减弱
+receive,收到,接纳
+recognize,认出,承认
+recover,恢复,找回
+recruit,招募 新成员
+reduce,减少,降低
+refer,参考,涉及
+reflect,反射,反思
+reform,改革 改良
+refresh,使恢复,更新
+refuse,拒绝 垃圾
+regard,看待 尊重
+register,登记 注册簿
+regulate,管理,调节
+reinforce,加强,加固
+reject,拒绝,驳回
+relate,联系,讲述
+relax,放松,缓和
+release,释放 发布
+relevant,相关的,切题的
+reliable,可靠的
+relieve,减轻,解除
+religion,宗教,信仰
+rely,依靠,依赖
+remove,移除,去掉
+render,使得,提供
+renew,更新,续期
+rent,租金 租借
+repeat,重复 复述
+replace,取代,替换
+represent,代表,表现
+reproduce,复制,繁殖
+reputation,名声,名誉
+require,需要,要求
+rescue,营救 救援
+resemble,像,类似于
+resist,抵抗,抗拒
+resolve,解决,决心
+resort,手段 求助于
+respect,尊重 敬重
+respond,回应,作出反应
+restore,恢复,修复
+restrain,抑制,约束
+restrict,限制,约束
+retain,保持,保留
+reveal,揭示,显示
+reverse,颠倒 相反的
+revise,修订,修改
+revolt,反抗 反叛
+reward,奖励 奖赏
+rhythm,节奏,韵律
+rigid,僵硬的,死板的
+rival,对手 竞争的
+roar,咆哮 吼叫
+rotate,旋转,轮换
+rough,粗糙的,粗略的
+routine,惯例 常规的
+royal,皇家的,王室的
+sacrifice,牺牲 献出
+safeguard,保障 保护
+sample,样本 取样
+scarce,稀缺的,不足的
+scatter,分散,散播
+scenery,风景,景色
+scheme,方案 策划
+scope,范围,余地
+scrape,刮擦 擦伤
+seal,封印 密封
+secure,安全的 获得
+segment,部分 分割
+select,挑选 精选的
+senior,年长的 长辈
+sensible,明智的,合理的
+sensitive,敏感的
+sequence,顺序,序列
+session,会议,一段时间
+severe,严重的,严厉的
+shallow,浅的,肤浅的
+shelter,庇护所 掩护
+shift,转移 转变
+shrink,收缩,缩小
+significant,重大的,显著的
+simplify,简化
+simulate,模拟,模仿
+singular,单数的,非凡的
+sink,下沉 水槽
+sketch,草图 简述
+slack,松弛的,懈怠的
+slice,薄片 切
+slight,轻微的 轻视
+slip,滑倒 疏漏
+slope,斜坡 倾斜
+smash,打碎 破碎
+snap,猛咬,断裂 快照
+soak,浸泡,浸透
+soar,高飞,猛增
+sober,清醒的 冷静
+solid,固体的,可靠的
+solution,解决办法,溶液
+solve,解决,解答
+sophisticated,复杂精密的
+sore,疼痛的 痛处
+source,来源,源头
+sow,播种
+span,跨度 跨越
+spare,多余的 饶恕
+spark,火花 触发
+specify,明确说明
+speculate,推测,投机
+sphere,球体,领域
+spill,洒出 溢出
+spin,旋转 纺纱
+spiral,螺旋 螺旋形的
+split,分裂 裂口
+spoil,破坏,溺爱
+sponsor,赞助商 资助
+spontaneous,自发的
+spot,地点 发现
+spray,喷雾 喷洒
+spring,春天,泉水 弹出
+spur,刺激 激励
+squeeze,挤压 紧握
+stable,稳定的 马厩
+stack,一堆 堆叠
+stain,污渍 玷污
+standard,标准 标准的
+stare,凝视 盯
+static,静止的 静电
+status,地位,状态
+steady,稳定的 稳固
+steep,陡峭的 浸泡
+stem,茎 阻止,起源于
+sticky,粘的,棘手的
+stiff,僵硬的,生硬的
+stimulate,刺激,激发
+stir,搅动 骚动
+stock,库存,股票 常备的
+stoop,弯腰 驼背
+strain,压力 拉紧
+strand,一股,海滨 搁浅
+strap,带子 捆扎
+strategy,策略,战略
+stress,压力 强调
+stretch,伸展 一段
+strike,撞击,罢工 袭击
+strip,剥去 条带
+strive,努力,奋斗
+stroke,击,中风 抚摸
+structure,结构 构造
+stuff,东西 填满
+subjective,主观的
+submit,提交,屈服
+subsequent,随后的
+substance,物质,实质
+substantial,大量的,实质的
+substitute,替代品 代替
+subtract,减去
+succeed,成功,继承
+successive,连续的
+sufficient,足够的
+suggest,建议,暗示
+suicide,自杀
+sum,总和 总计
+summon,召唤,召集
+superficial,表面的,肤浅的
+superior,优越的 上级
+supervise,监督,管理
+supplement,补充 增补
+suppose,假定,认为
+surge,激增 汹涌
+surpass,超过,胜过
+surrender,投降 放弃
+survey,调查 勘测
+survive,幸存,存活
+suspend,暂停,悬挂
+sustain,维持,经受
+swallow,吞咽 燕子
+swamp,沼泽 淹没
+swap,交换 互换
+swarm,一大群 云集
+swing,摇摆 秋千
+switch,开关 转换
+symbol,象征,符号
+symmetry,对称,匀称
+system,体系,系统
+tackle,处理 用具
+tactic,策略,手段
+talent,天赋,才干
+target,目标 瞄准
+tariff,关税
+tear,撕碎 眼泪
+technical,技术的,专业的
+tedious,冗长乏味的
+temper,脾气 缓和
+temporary,暂时的
+tempt,引诱,诱惑
+tendency,倾向,趋势
+terminal,末端的 终点站
+territory,领土,领域
+terror,恐怖,惊骇
+texture,质地,质感
+theoretical,理论上的
+therapy,治疗,疗法
+thereby,因此,从而
+thrive,繁荣,茁壮成长
+thrust,猛推 刺
+tide,潮汐,潮流
+tilt,倾斜 倾侧
+tiny,微小的
+tip,小费,提示 倾斜
+tolerate,容忍,忍受
+topic,话题,主题
+torch,火把,手电筒
+toss,抛扔 投掷
+trace,追踪 痕迹
+track,轨道 跟踪
+trade,贸易 交易
+tradition,传统,惯例
+transfer,转移 调任
+transform,使改变,改造
+transient,短暂的
+transmit,传输,传播
+trap,陷阱 困住
+tray,托盘
+treat,对待,款待 乐事
+tremble,颤抖 战栗
+tremendous,巨大的,极好的
+trend,趋势 趋向
+trial,试验,审判 试验性的
+trigger,扳机 引发
+trim,修剪 整齐的
+triumph,胜利 得胜
+trivial,琐碎的,不重要的
+troop,部队,一群
+trouble,麻烦 困扰
+true,真实的,正确的
+trust,信任 信赖
+tug,用力拉 拖拽
+tune,曲调 调节
+tunnel,隧道 挖隧道
+turn,转动 轮流
+twist,扭曲 转折
+ultimate,最终的,根本的
+uncover,揭露,发现
+undergo,经历,遭受
+underline,强调,划线
+undertake,承担,从事
+undo,撤销,解开
+uneasy,不安的,担忧的
+uniform,统一的 制服
+union,联合,工会
+unique,独特的,唯一的
+unit,单元,单位
+universal,普遍的,全体的
+unlikely,不太可能的
+update,更新 最新消息
+upgrade,升级 提升
+uphold,维护,支持
+upper,上面的,上层的
+urge,催促 强烈欲望
+urgent,紧急的
+utilize,利用,使用
+utmost,极度的 最大限度
+vacuum,真空 用吸尘器清扫
+vague,模糊的,含糊的
+vain,徒劳的,虚荣的
+valid,有效的,合理的
+vanish,消失,消散
+variable,多变的 变量
+variation,变化,变体
+vast,广阔的,巨大的
+vehicle,交通工具,媒介
+venture,冒险 敢于
+verify,核实,查证
+version,版本,说法
+vertical,垂直的 垂直线
+vessel,船,容器
+veteran,老手,老兵
+via,通过,经由
+vibrate,振动,颤动
+vice,恶习,副的
+victim,受害者,牺牲品
+view,观点 看待
+violate,违反,侵犯
+violent,暴力的,猛烈的
+virtual,实际上的,虚拟的
+virtue,美德,优点
+visible,可见的,明显的
+vision,视力,愿景
+vital,至关重要的
+vivid,生动的,鲜明的
+void,空的 空虚
+volunteer,志愿者 自愿
+vote,投票 表决
+wage,工资 发动
+wander,漫步,走神
+warn,警告,告诫
+waste,浪费 挥霍
+weaken,削弱,变弱
+wealth,财富,丰富
+weapon,武器
+weave,编织,编造
+weigh,称重,权衡
+welfare,福利,幸福
+whirl,旋转 回旋
+whisper,低语 耳语
+widespread,广泛传播的
+wisdom,智慧,才智
+witness,目击者 见证
+wrap,包裹 披肩
+wreck,残骸 毁坏
+yield,产出,屈服 产量
+abstract,抽象的 摘要
+absurd,荒谬的
+accent,口音,重音
+access,通道 获取
+accessory,附件,配饰
+accommodate,容纳,适应
+accompany,陪伴,伴随
+accomplish,完成,实现
+accord,协议 给予
+accumulate,积累,积聚
+accurate,准确的,精确的
+accuse,指责,控告
+accustomed,习惯的
+adapt,适应,改编
+adequate,足够的,适当的
+adjust,调整,校正
+administer,管理,执行
+admire,钦佩,欣赏
+admit,承认,准许进入
+adopt,采纳,收养
+advance,前进 进步
+advantage,优势,有利条件
+adventure,冒险,奇遇
+advertise,做广告,宣传
+advisable,明智的,可取的
+affect,影响,使感动
+afford,负担得起,提供
+agency,代理机构
+agenda,议程
+aggressive,好斗的,进取的
+aid,援助 帮助
+alert,警觉的 提醒
+allocate,分配,划拨
+allow,允许,准许
+ally,盟友 结盟
+alter,改变,更改
+alternative,可供选择的
+amaze,使惊奇
+ambiguous,模棱两可的
+ambition,抱负,雄心
+amend,修改,修订
+amount,数量 总计
+analyse,分析,研究
+ancestor,祖先,祖宗
+anchor,锚 固定
+ancient,古代的,古老的
+angle,角度,视角
+announce,宣布,通告
+annoy,使恼怒,打扰
+annual,年度的 年刊
+anticipate,预期,预料
+anxiety,焦虑,担忧
+apparent,显然的,表面的
+appeal,呼吁,吸引 感染力
+appear,出现,似乎
+appetite,食欲,欲望
+applaud,鼓掌,赞许
+apply,申请,应用
+appoint,任命,约定
+appreciate,感激,欣赏
+approach,接近 方法
+appropriate,恰当的 挪用
+approve,赞成,批准
+approximate,大约的 近似
+arbitrary,任意的,武断的
+argue,争论,争辩
+arise,出现,产生
+arrange,安排,整理
+arrest,逮捕 拘捕
+arrive,到达,抵达
+artificial,人造的,虚假的
+ascend,上升,攀登
+assess,评估,评定
+asset,资产,优点
+assign,分配,指派
+assist,协助,帮助
+associate,联想 伙伴
+assume,假定,承担
+assure,使确信,保证
+attach,附上,依附
+attain,达到,实现
+attempt,尝试 努力
+attend,出席,照料
+attribute,归因于 属性
+authority,权威,当局
+automatic,自动的
+available,可获得的
+avenue,林荫道,途径
+avoid,避免,回避
+await,等候,期待
+awake,醒着的 唤醒
+award,奖项 授予
+aware,意识到的,知道的
+awful,糟糕的,可怕的
+awkward,尴尬的,笨拙的
+axe,斧头 削减
+bachelor,学士,单身汉
+backward,向后的,反向地
+badge,徽章,标志
+balance,平衡 权衡
+ban,禁止 禁令
+band,乐队,带子
+bang,猛撞,巨响
+bankrupt,破产的,使破产
+banner,横幅,旗帜
+bar,酒吧,栅栏,阻拦
+bare,赤裸的,空的
+bargain,便宜货,讨价还价
+barrier,障碍,屏障
+base,基础,以…为依据
+basic,基本的,基础要素
+basin,盆,盆地
+battery,电池,一系列
+battle,战斗 搏斗
+beam,横梁,光束 微笑
+bear,忍受,承受 熊
+beat,击打,节拍
+behalf,代表
+behave,表现,举止
+belief,相信,信念
+belly,腹部
+bend,弯曲,弯道
+beneath,在…下方
+benefit,益处 有益于
+bent,弯曲的 爱好
+betray,背叛,泄露
+bias,偏见 使产生偏向
+bid,投标 出价
+bind,捆绑,约束
+biology,生物学
+birth,出生,诞生
+bite,咬 一口
+bitter,苦涩的,痛苦的
+blade,刀片,叶片
+blame,责备 责任
+blank,空白的 空格
+blast,爆炸 炸裂
+blend,混合 混合物
+blind,失明的 蒙蔽
+block,块 阻碍
+bloom,开花 花期
+blow,吹 打击
+board,木板,董事会 上船
+boast,夸耀 自夸
+bold,大胆的,粗体的
+bond,纽带,债券 结合
+boom,繁荣 激增
+boost,推动 促进
+border,边界 毗邻
+bore,使厌烦 令人讨厌的人
+bounce,弹跳 反弹
+bound,必定的 束缚
+boundary,分界线,边界
+bow,鞠躬 弓
+brain,大脑,头脑
+brake,刹车 制动
+branch,分支,分部
+brand,品牌 打烙印
+brass,黄铜
+brave,勇敢的 勇敢面对
+breadth,宽度,广度
+break,打破 间歇
+breed,繁殖 品种
+breeze,微风 轻松完成
+brick,砖块
+brief,简短的 简要介绍
+bright,明亮的,聪明的
+brilliant,杰出的,灿烂的
+bring,带来,引起
+brittle,易碎的
+broad,宽阔的,广泛的
+broken,破碎的,坏掉的
+brow,额头,眉毛
+brush,刷子 刷
+bubble,气泡 冒泡
+budget,预算 规划开支
+build,建造,建立
+bulk,大部分,体积
+bullet,子弹
+bundle,捆 打包
+burden,负担 加重负担
+burst,爆发 突发
+bush,灌木
+business,生意,事务
+busy,忙碌的
+button,按钮，扣上
+buy,购买
+cable,电缆，绳索
+calculate,计算，估算
+calendar,日历
+campaign,运动 开展活动
+cancel,取消,废除
+candidate,候选人,报考者
+cap,帽子 覆盖
+capable,有能力的
+capital,首都,资本 大写的
+capture,捕获 占领
+carbon,碳
+career,职业,事业
+careful,小心的,仔细的
+carpet,地毯
+carry,携带,传播
+case,情况,案例,箱子
+cash,现金 兑现
+cast,投掷,投射 演员表
+casual,随意的,偶然的
+catch,抓住,赶上
+defect, 缺点, 瑕疵
+flexible, 易弯曲的, 灵活的
+scent, 香味, 踪迹, 嗅到
+collide, 碰撞, 冲突
+tragic, 悲惨的, 悲剧的
+erroneous, 错误的, 不正确的
+shuttle, 航天飞机, 梭子
+participate, (in) 参加
+advantage, 优点, 好处
+exceptional, 杰出的, 异常的
+hinder, 妨碍
+hesitate, 犹豫, 不情愿
+compromise, 妥协
+underlying, 含蓄的, 潜在的
+feedback, 反馈
+qualification, 合格证书
+variable, 易变的, 变量
+enthusiastic, 满腔热情的
+precede, 在...之前, 先于
+range, 一系列, 范围, 距离
+episode, 一个事件, 插曲
+abuse, 滥用, 虐待, 辱骂
+condemn, 谴责, 宣判
+appreciate, 重视, 欣赏
+sculpture, 雕刻, 雕刻作品
+weird, 古怪的, 怪诞的
+previous, 以前的
+wander, 漫游, 走神
+supervise, 监督, 管理
+mortal, 致命的
+explosive, 爆炸的, 炸药
+competence, 能力, 胜任
+investigate, 调查, 研究
+eliminate, 排除, 淘汰
+migrate, 迁移
+reckless, 鲁莽的
+penalty, 处罚, 罚金
+impose, (on) 把...强加于
+accomplish, 完成, 实现
+sponsor, 发起者, 赞助者
+tumble, 跌倒, 暴跌
+uphold, 支持, 维护
+propel, 推动, 驱使
+descent, 下降, 斜坡
+drawback, 缺点, 不利条件
+illuminate, 照明, 阐明
+adhere, 黏附, 遵守, 坚持
+indicative, 象征的
+reckon, 认为, 考虑到
+redundant, 多余的
+dominate, 支配
+reverse, 撤销反转, 反面的
+proportion, 比例, 部分
+calculate, 计算, 估计
+identical, 相同的
+innovation, 改革, 创新
+intrigued, 好奇的, 被迷住的
+epidemic, 流行病
+encounter, 遇到, 遭遇
+accelerate, (使) 加快
+energetic, 精力充沛的
+heighten, (使) 提高, 加强
+passive, 被动的, 消极的
+consumption, 消耗量, 消耗
+bald, 秃的, 磨光的
+spill, (使) 溢出, (使) 洒落
+calorie, 卡 (路里)
+doubtful, 难以预测的, 可疑的
+prevalent, 流行的, 普遍的
+appeal, 恳求, 吸引力, 上诉
+dump, 倾倒, 丢弃, 垃圾场
+yell, 叫喊
+saying, 谚语
+forecast, 预测
+brew, 酿造, 冲泡, 茶, 咖啡
+circulation, 循环, 流通
+perceive, 感知, 认识到
+appearance, 出现, 外表
+export, 出口 (物), 出口
+transfer, 转移, 调动, 转学, 转移, 调动, 转学
+genetic, 遗传 (学) 的
+offspring, 后代
+distribute, 分布, 分发
+accompany, 陪伴, 伴随
+persist, 坚持不懈, 持续
+differentiate, 区别, 使不同
+perspective, 视角, 透视图
+fabricate, 捏造, 制造
+abundance, 大量, 充足
+batch, 一批, 一群, 一批生产量
+elapse, (时间) 流逝
+seal, 封条, 图章, 海豹
+mature, 成熟的, 成年人的
+combination, 结合 (体)
+lean, 倾斜, 靠, 瘦的, 瘦肉
+incline, (使) 倾斜, 斜坡
+index, 索引, 指数, 为...编索引
+nutrition, 营养
+constant, 持续不断的
+regardless, 不管怎样
+refund, 退款, 退还
+discern, 察觉出, 识别
+stumble, 绊倒, 跌跌撞撞地走
+negligible, 可忽略不计的
+assault, 攻击, 袭击
+transit, 运输
+concrete, 具体的, 混凝土
+magnify, 放大, 夸大
+poisonous, 有毒的, 恶毒的
+virtual, 事实上的, 虚拟的
+thesis, 论文, 毕业论文
+predecessor, 前辈, 前任
+geology, 地质学
+invaluable, 宝贵的, 无价的
+adjacent, (to) 相邻的
+captive, 被捕获的, 俘虏
+catholic, 天主教的
+adjoin, 贴近, 与...毗连
+ballet, 芭蕾舞 (团)
+traditional, 传统的, 惯例的
+extraordinary, 非凡的
+perpetual, 永恒的, 不断的
+prejudice, 偏见, 使有成见
+fancy, 喜欢, 想象力
+optical, 光 (学) 的, 视觉的
+consequence, 结果, 重要 (性)
+astronomy, 天文学
+catastrophe, 大灾难
+foresee, 预见, 预知
+prescribe, 指定, 开处方
+certify, 证明, 发证书给
+absurd, 荒谬的
+donate, 捐赠
+transplant, 移植
+ample, 足够的, 大量的
+dynamic, 有活力的, 动力
+terrific, 极妙的, 极大的
+cafeteria, 自助餐馆, 食堂
+disregard, 不理会, 漠视
+overload, 超过负荷, 超载
+compel, 强迫
+ignorant, (of) 无知的
+aggravate, 加重, 激怒
+inherent, (in) 内在的, 固有的
+restore, 恢复, 归还
+preview, 预演, 预告 (片)
+explicit, 明确的, 清楚的
+anniversary, 周年纪念 (日)
+approach, 靠近, 途径
+depict, 描绘
+evolution, 演变, 进化
+overcome, 克服, 压倒
+vigorous, 精力充沛的
+recreation, 娱乐活动, 消遣
+stable, 稳定的, 马厩
+framework, 框架, 体系, 结构
+brochure, 小册子
+consequent, 作为结果的
+occupy, 占用, 占领
+profile, 轮廓, 为...描绘
+compose, 构成, 创作
+compulsory, 强制的, 必修的
+personnel, 全体人员
+complicated, 复杂的
+dioxide, 二氧化物
+nuisance, 讨厌的人 (或事物)
+toxic, 有毒的
+offend, 冒犯, 使厌恶
+retrieve, 重新得到, 恢复
+inject, 注射, 注入
+designate, 指派, 标出
+vacuum, 真空, 用吸尘器清扫
+polish, 抛光, 润色, 擦光剂
+eligible, 有资格的, 合格的
+antique, 古老的, 古董
+memorial, 纪念的, 纪念碑
+pedal, 踏板, 踩踏板, 骑自行车
+hazard, 危险, 尝试着做
+prophet, 先知, 预言家
+sacred, 神圣的, 宗教 (性) 的
+salute, 向...敬礼, 赞扬, 敬礼
+proceed, 进行, 行进
+slump, 暴跌, 低潮
+thrive, 兴旺, 繁荣
+esteem, 尊重
+currency, 货币, 通行
+exert, 运用, 努力
+oriental, 东方的, 东方文化的
+ignorance, 无知
+kidney, 肾
+vain, 徒劳的, 自负的
+violate, 违反, 亵渎, 侵犯
+cancel, 取消, 抵消, 划掉
+divorce, 离婚, 分离
+accord, 一致, 协议, 授予
+bribe, 贿赂
+economy, 经济, 节约
+identification, 身份证明
+ability, 能力, 才能
+brief, 短暂的, 简短的, 摘要
+conserve, 保护, 保存
+fraction, 小部分, 分数
+slash, 砍, 大幅度削减, 砍
+bonus, 奖金
+annual, 每年的, 年报
+metric, 公制的, 米制的
+profitable, 有利可图的
+precise, 精确的, 严谨的
+notorious, 臭名昭著的
+residential, 居住的, 住宅的
+conventional, 常规的
+subsidy, 补助金, 津贴
+tub, 桶, 盆, 浴缸
+giant, 巨人, 巨大的
+furnace, 火炉
+initial, 开始的, 首字母
+incentive, 刺激, 鼓励
+sacrifice, 牺牲, 祭品, 献祭
+convert, (使) 转变
+portion, 一部分, 分配
+lounge, 休息厅, 闲逛
+cozy, 舒适的, 亲切友好的
+scratch, 抓, 刮擦, 抓痕
+relieve, 使轻松, 减轻
+precaution, 预防, 警惕
+permanent, 永久的, 固定的
+exaggerate, 夸大, 夸张
+remedy, 补救方法, 补救
+defy, 违抗, 藐视
+routine, 例行公事, 例行的
+fake, 假货, 骗子, 假的
+instruct, 指示, 教育
+occasional, 偶尔的
+challenge, 挑战
+equip, 装备, 使有准备
+initiate, 开始实施, 发起, 新加入组织的人
+occupation, 职业, 消遣
+suspect, 推测, 可疑分子
+patience, 耐心
+endure, 忍受, 忍耐
+gap, 缺口, 差距, 不足
+cheat, 欺骗, 欺骗, 骗子
+abundant, (in) 大量的
+gaze, 注视
+ideal, 理想的, 理想
+jealous, 妒忌的, 精心守护的
+payment, 支付的款项, 支付
+revolve,旋转
+sanction,批准, 处罚
+respectively,分别地
+satisfactory,令人满意的
+skeptical,表示怀疑的
+boost,提高, 推动
+household,家庭
+appliance,电器, 应用
+generate,产生, 引发
+drain,排走, 下水道, 排水管
+integral,构成整体所必需的
+bankrupt,破产的, 破产者
+compact,紧凑的, 合同
+immense,广大的, 巨大的
+consume,消耗, 花费
+sensitive,敏感的
+haunt,常出没于, 常去的地方
+vanish, 消失, 不复存在
+complex, 复合的, 复杂的
+freight, 货物, 运送 (货物)
+insulate, 使绝缘, 隔离
+implement, 使生效, 实施
+electrical, 电的
+efficient, 效率高的
+derive, 得到
+keen, 热衷的, 着迷的
+casual, 马虎的, 非正式的
+acquaintance, 熟人, 认识
+embarrass, 使尴尬
+inferior, 劣等的, 下级的, 下级
+parade, 游行, 检阅
+donation, 捐赠
+vague, 含糊的, 模糊的
+construct, 建筑, 建筑物
+expose, 暴露
+betray, 背叛, 泄露
+embrace, 拥抱, 欣然接受
+sample, 样品
+upset, 使心烦意乱, 打乱, 沮丧的
+decisive, 决定性的
+expansive, 广阔的
+conscience, 良心
+exemplify, 是...的典型
+sexual, 性的, 性别的
+manufacture, 捏造, 制造品
+peculiar, 奇怪的
+means, 方法
+output, 产量, 输出
+scope, 范围, 眼界
+reward, 报答, 奖赏, 酬金
+nurture, 养育, 培育
+passion, 激情, 酷爱
+quest, 寻求, 探索
+refrain, 节制, 抑制
+concern, 关心, 使担心
+collection, 收藏品, 收集
+correspondence, 通信, 符合
+sufficient, 足够的, 充分的
+illustrate, 说明
+abandon, 放弃, 抛弃
+miserable, 痛苦的
+trap, 陷阱, 困境, 使中圈套
+enclose, 围住
+amaze, 使惊奇
+unfold, 展开, 显露
+prime, 首要的, 最好的
+shift, 转移, 转变
+disrupt, 使中断, 扰乱
+graduate, 毕业, 毕业生
+trend, 趋势, 时尚
+critical, 批评的, 严重的
+adequate, 充足的, 合格的
+dread, 担忧, 畏惧
+artificial, 人造的, 假的
+inflation, 通货膨胀, 膨胀
+adjust, 调整, 调节, 适应
+stem, 茎, 词干, 阻止
+misery, 痛苦, 不幸
+multiply, (使) 增加, 乘
+liberate, 解放, 释出
+dip, 浸, 蘸, 落下
+segment, 部分, 瓣, 分割
+setback, 挫折, 退步
+imaginative, 富有想象力的
+portray, 描绘, 表现, 扮演
+feast, 盛宴, 节日, 宴饮
+erase, 擦掉, 抹去, 清除
+administer, 管理, 实施
+assurance, 信心, 保证
+scrutiny, 详细检查, 仔细观察
+gleam, 闪烁, 流露
+surf, 上网浏览信息, 激浪
+generous, 慷慨的, 大量的
+optimistic, 乐观的
+impress, 使敬佩
+sightseeing, 观光
+champagne, 香槟酒
+entertain, 款待, 给...娱乐
+steer, 驾驶, 引导, 掌 (舵)
+frustrate, 挫败, 使受挫折
+definition, 定义, 清晰 (度)
+attain, 达到, 获得
+statement, 声明, 阐述
+exceed, 超过
+originate, 起源于, 创造
+reservation, 预订, 保留
+obligation, 义务, 责任
+resolution, 决心, 解决
+discount, 折扣, 打折
+comprehensive, 全面的
+anyhow, 无论如何
+instant, 立即的, 瞬间
+misfortune, 不幸, 逆境
+extravagant, 奢侈的
+cling, (to) 黏着, 依恋, 坚持
+complaint, 抱怨, 投诉
+skim, 浏览, 略读
+dim, 昏暗的, (使) 变暗淡
+collapse, 倒塌, 崩溃
+federal, 联邦制的
+aboard, 在 (船, 飞机, 火车等) 上
+devise, 发明, 设计
+venture, 风险投资, 冒险
+clip, 夹子, 回形针, 夹住
+stroke, 中风, 笔画, 击球
+combat, 战斗, 斗争, 斗争
+revenue, 收入, 税收
+apart, 分开, 分离的
+repay, 归还, 报答
+bound, 一定的, 受约束的
+embark, 从事, 上船
+corrupt, 腐败的, 使堕落
+recipe, 烹饪法, 食谱, 秘诀
+disclose, 透露
+classic, 经典的, 经典作品
+provision, 供应, 条款
+industrialize, (使) 工业化
+proposal, 提议, 求婚
+flourish, 繁荣, 兴旺, 挥动
+coordinate, 搭配, 同等的
+existence, 存在, 生存
+deem, 认为, 相信
+merely, 仅仅, 只不过
+incredible, 不可信的, 难以置信的
+conduct, 进行, 指挥, 举止
+exotic, 奇异的, 异国的
+orbit, 轨道, 绕道而行
+fare, 票价
+conclude, 推断出, 总结
+tremendous, 巨大的
+institution, 制度, 习俗
+rare, 稀有的, 珍贵的
+compensation, 赔偿
+abroad, 在国外
+lag, 走得慢, 滞后, 间隔
+aware, 意识到的
+grocery, 食品杂货店, 杂货
+incident, 事件, 小事情
+concentrate, 集中, 浓缩
+immune, 免疫的, 不受影响的
+susceptible, 易受影响的
+infect, 传染, 影响
+evidence, 证据
+regulate, 管理, 调节
+advanced, 先进的, 年迈的
+effective, 有效的, 实际的
+attitude, 态度, 看法
+grant, 拨款, 授予, 同意
+access, 入口, 到达, 进入
+indifferent, 漠不关心的
+crush, 挤压, 压坏, 镇压
+elementary, 基本的, 初级的
+primary, 首要的, 最初的
+curriculum, 课程
+capable, 有能力的
+outstanding, 杰出的, 显著的
+statesman, 政治家
+harsh, 严厉的, 刺耳的
+representative, 代表, 典型的
+automation, 自动化
+application, 申请, 应用
+personality, 个性, 性格
+tutor, 导师, 家庭教师
+formula, 方案, 公式, 配方
+spit, 吐唾沫, 吐出, 唾液
+relate, 有关联, 涉及
+extreme, 极端的, 极端
+abnormal, 不正常的
+electrician, 电工
+fury, 暴怒, 猛烈
+overhear, 无意中听到, 偷听到
+paradise, 天堂, 乐园
+muscular, 肌肉的, 强壮的
+usage, 使用, 用法, 惯用法
+saturate, 使浸透, 饱和
+acknowledge, 承认, 接受
+imaginary, 想象中的, 虚构的
+approve, 赞成, 称许
+verge, 边缘, 界限, 范围
+reliable, 可信赖的, 可靠的
+accommodation, 住处, 住宿
+temporary, 暂时的, 短暂的
+participant, 参与者
+likelihood, 可能, 可能性
+register, 登记本, 登记
+affect, 影响, 使感动
+appetite, 胃口, 食欲
+suppress, 镇压, 抑制
+destination, 目的地
+skip, 跳, 略过, 蹦跳
+intersection, 交叉, 十字路口
+deficit, 赤字, 亏损
+consistent, 始终如一的
+reveal, 揭露, 展现
+disorder, 混乱, 失调
+institute, 协会, 建立
+alter, 改变
+disguise, 掩盖, 伪装
+instantaneous, 瞬间的
+offensive, 冒犯的, 进攻
+twist, 捻, 搓, 拧, 弯曲
+desperate, 不顾一切的, 绝望的
+understanding, 谅解, 理解
+neglect, 忽略, 疏忽
+interrupt, 打断, 中止
+timely, 及时的
+determination, 决心, 确定
+therapy, 治疗, 疗法
+handicap, 缺陷, 障碍
+glide, 滑行, 滑翔
+invariably, 不变地
+serial, 连续剧, 连续的
+shabby, 破旧的, 衣衫褴褛的
+gigantic, 巨大的, 庞大的
+invert, 使反转, 使颠倒
+predict, 预言, 预测
+interview, 会见, 面试
+overlook, 忽略, 俯瞰
+external, 外部的, 外面
+contrary, 相反的, 相反面
+exclaim, 呼喊, 惊叫
+prior, 优先的, 在前的
+preference, 偏爱
+bold, 勇敢的, 鲁莽的
+mercy, 仁慈, 恩惠
+circular, 圆形的, 循环的
+accustom, 使习惯 (于)
+clarify, 阐明, 澄清
+permission, 许可
+illusion, 幻想, 错觉
+agreeable, 令人愉快的, 同意的
+schedule, 日程安排, 安排
+abstract, 抽象的, 摘要
+scenario, 设想
+stimulus, 刺激物
+antibiotic, 抗生的
+hypothesis, 假设
+prestige, 声望, 威信
+glimpse, 瞥见, 一瞥
+detach, 脱离, 拆卸
+tenure, 保有, 终身职位
+resurrection, 复活
+predator, 掠夺者
+evolutionary, 进化的
+rationality, 合理性
+retreat, 撤退
+leverage, 杠杆
+alleviate, 减轻, 缓和
+warehouse, 仓库
+democracy, 民主
+intimidate, 威胁, 恐吓
+spectacle, 景象, 场面
+hostile, 敌意的, 敌对的
+compatible, 兼容的
+reinforce, 增强
+notably, 显著地, 尤其
+inventive, 有创造力的
+subsidize, 补助, 给...发津贴
+pesticide, 杀虫剂
+justification, 辩护
+exhaustion, 耗尽
+hurricane, 飓风
+inevitable, 不可避免的
+enrollment, 登记
+retailer, 零售商
+expedition, 探险
+stigma, 耻辱, 污名
+controversial, 有争议的
+ancestry, 祖先
+pledge, 誓言, 抵押
+galactic, 银河的
+tenant, 租户
+intensity, 强度, 剧烈
+enforce, 强制, 执行
+intensive, 密集的
+refuge, 避难所, 庇护
+fragment, 碎片, 片段
+ferry, 渡船, 摆渡
+supervisor, 主管
+fixture, 固定物
+commodity, 商品
+resentment, 怨恨, 愤恨
+ultimate, 最后的, 最终
+indulge, 放任, 沉溺
+surpass, 超过, 胜任
+millennium, 一千年
+constraint, 约束
+attendant, 服务员
+supervision, 监督, 管理
+pyramid, 金字塔
+robust, 强壮的
+irrational, 不合理的
+cholesterol, 胆固醇
+obsession, 痴迷, 困扰
+straightforward, 坦率的
+demographic, 人口的
+carbohydrate, 碳水化合物
+scooter, 滑板车, 小摩托车
+texture, 质地, 构造
+imminent, 即将发生的
+algorithm, 算法
+interpret, 口译, 解释
+trigger, 触发, 诱因
+celebrity, 名人, 名声
+democrat, 民主主义者
+speculate, 推测, 思索
+chronic, 慢性的
+dedication, 献身, 奉献
+pasta, 意大利面
+endeavour, 尽力
+contradict, 反驳, 相矛盾
+colonial, 殖民地的
+outsource, 外包
+heritage, 遗产, 传统
+formulate, 规划
+ridiculous, 荒谬的
+stunning, 令人震惊的
+manipulate, 操纵
+indigenous, 本地的, 本土的
+threshold, 门槛
+standpoint, 立场, 观点
+revive, 复活, 再生
+sewage, 污水, 下水道
+demonstrate, 证明
+imperative, 急需的
+passport, 护照
+irritated, 愤怒的
+nominate, 提名, 指派
+outperform, 超过
+irrelevant, 无关紧要的
+debris, 碎片, 残骸
+utterly, 完全地, 绝对
+trillion, 兆, 万亿
+endorse, 签署, 支持
+mindset, 观念模式
+memorandum, 备忘录
+relentless, 无情的, 不懈的
+extinction, 灭绝
+dwell, 居住, 沉湎于
+conducive, 有利于...的
+multitude, 大量, 群众
+dedicate, 奉献, 致力
+fabric, 织物, 布料, 结构
+magnitude, 重大
+predominantly, 主要地
+privilege, 特权, 荣幸
+fertilizer, 施肥, 使肥沃
+devastating, 毁灭性的
+migration, 迁徙, 移居
+glamorous, 迷人的
+solitude, 孤独, 独处
+communal, 社区的
+inferior, 较差的, 次等的
+plague, 瘟疫, 困扰
+cumulative, 累积的
+withdraw, 撤回, 撤退
+satellite, 卫星
+sentiment, 情绪, 看法
+strand, 海滨, 使滞留
+substitute, 替代
+prestigious, 有声望的
+prescription, 处方药
+bizarre, 奇怪的, 奇特的
+parliament, 议会
+momentum, 动力
+saturated, 渗透的, 充满的
+legitimate, 合理的, 使合法
+handicapped, 残疾的
+masterpiece, 杰作
+deliberate, 故意的, 深思
+testimony, 证明
+gesture, 手势
+ingenuity, 创造力
+fluctuation, 波动, 起伏
+metropolitan, 大城市的
+satire, 讽刺, 讽刺作品
+tropical, 热带的
+monopoly, 垄断
+simultaneously, 同时地
+resilient, 有弹性的
+intimacy, 亲密
+mineral, 矿物质
+repository, 仓库, 存放处
+underestimate, 低估
+monarch, 君王, 帝王
+milestone, 重要事件
+burnout, 精疲力竭
+poetry, 诗歌
+thorough, 彻底的
+cricket, 板球, 蟋蟀
+deteriorate, 恶化, 变坏
+deposit, 存款, 押金
+sustain, 承受, 维持
+manifest, 明显的, 表明
+migrant, 移居者
+immigration, 移民
+intuitive, 直觉的
+adversely, 不利地
+craftsmanship, 技艺
+subsistence, 生存
+charming, 迷人的
+syndrome, 综合症
+chunk, 厚块, 大块
+prolong, 拉长, 延长
+compensate, 补偿
+elite, 精英, 精英的
+spectacular, 壮观的
+delicate, 脆弱的, 精致的
+hazardous, 危险的
+moderate, 适度的, 节制
+catastrophic, 灾难性的
+glamour, 魅力, 魔力
+presumably, 大概
+amateur, 业余的, 业余爱好者
+mentality, 智力, 心理
+submission, 屈从, 提交
+violation, 违反, 妨碍
+collision, 冲突, 碰撞
+payroll, 工资册
+underlie, 构成...的基础
+relocate, 重新安置
+invisible, 看不见的
+tactic, 战略, 策略
+transparent, 显然的
+subtle, 隐晦的
+paralyzed, 瘫痪的, 麻木的
+resilience, 适应力
+tedious, 冗长的, 乏味的
+fertility, 肥沃, 繁殖力
+transcend, 超越, 超出
+verify, 证实, 核实
+sanctuary, 避难所
+municipal, 市政的
+descendant, 子孙后代
+deplete, 耗尽
+summit, 顶点, 首脑会议
+tsunami, 海啸
+controversy, 争论
+submit, 提交
+available, 可用的, 有空的
+tuition, 学费, 教学
+collaborative, 合作的
+indispensable, 不可或缺的
+groundless, 无理由的
+vocal, 直言不讳的
+radical, 激进的
+potential, 可能的, 潜在的, 可能性, 潜力
+enable, 使能够, 使可能
+diversity, 不同, 差异
+mutual, 相互的
+novel, 新颖的, 新奇的
+variety, 各式各样
+claim, 宣言, 断言
+resident, 居民
+associate, 联系
+academic, 学术的
+brand, 品牌
+occur, 发生
+implication, 暗指, 暗示
+stress, 紧张, 重音, 强调
+allergic, 过敏的, 对...极其反感的
+bias, 偏见
+political, 政治的
+burden, 负担, 重担
+virtually, 几乎, 实际上
+reproductive, 繁殖的, 复制的
+expectancy, 期待
+avoid, 回避, 避免
+platform, 平台
+convey, 表达, 传递
+fraud, 欺诈, 骗子
+apply, 应用, 申请, 适用, 涂
+complement, 补充
+severe, 艰难的, 严厉的
+preservation, 维护, 保存
+overwhelming, 巨大的
+attractive, 迷人的
+technique, 技能, 技术
+fade, 逐渐消失, 变得脆弱
+characteristic, 特征
+commitment, 承诺, 保证
+campus, 校园, 校区
+reform, 改革, 变革, 改良
+yield, 产量, 产出
+treatment, 疗法, 治疗
+assumption, 假定, 设定
+export, 出口 (物), 出口
+diet, 饮食, 节食
+promote, 促进, 提升, 推广
+corporate, 公司的
+consult, 请教, 查阅
+award, 奖, 薪水, 授予, 奖励
+survive, 生存, 比...活得久
+admit, 赞同, 准许...进入
+analysis, 分析
+insight, 洞察力, 眼光
+association, 协会, 联盟
+inquiry, 调查
+refuse, 拒绝
+software, 软件
+scholar, 学者
+route, 路线, 途径
+command, 命令, 指令
+psychological, 心理的
+escape, 逃跑, 逃脱, 避开
+impression, 印象
+headline, 新闻提要
+revolution, 革命, 改革
+undergo, 经历, 经受
+sector, 部门, 行业, 领域
+affordable, 价格合理的
+advertising, 广告, 广告业, 广告活动
+accessible, 可进入的
+legacy, 遗产, 遗赠
+funding, 政府或机构的资金
+carbon, 碳
+though, 虽然, 尽管
+essential, 基本的, 本质的
+due, 由于, 因为
+intelligence, 才智, 智慧
+frequent, 频繁的
+general, 常规的, 首席的
+engage, 参加, 雇用
+depend, 依靠, 信赖
+elderly, 年纪较大的, 老人
+description, 描述, 形容
+security, 安全, 保证
+instrument, 器械, 仪器
+defend, 辩护, 保卫
+moral, 道德的
+bond, 纽带, 关系
+fame, 名声, 声誉
+nevertheless, 不过
+recognition, 承认, 认出
+territory, 领土, 版图
+draft, 草稿
+wage, 工资
+regard, 将...认为
+throughout, 遍及, 贯穿
+ensure, 保证, 确保
+appropriate, 合适的
+adopt, 采用, 采取
+motivation, 动力, 动机
+adapt, 使适用
+assess, 评估
+refer, 提到, 涉及
+estimate, 估计, 估价
+cognitive, 认知的
+commit, 忠于, 承诺
+track, 追踪, 跟踪
+wonder, 琢磨, 惊叹
+psychologist, 心理学家
+deserve, 值得, 应得
+suffer, 遭受, 承受
+rational, 合理的
+launch, 发起, 发射
+extent, 程度, 限度
+authentic, 真正的, 真实的
+fundamental, 基础的
+adverse, 不利的, 有害的
+diverse, 不同的
+fuel, 燃料
+sake, 目的, 理由
+account, 账户, 账目
+invest, 投资
+campaign, 运动
+interaction, 交流
+stock, 股票
+vary, (使) 呈现差异
+extend, 伸出, 伸开
+phenomenon, 现象
+ignore, 忽视, 不予理睬
+foundation, 基金会, 基础
+oppose, 反对, 阻止
+vision, 幻觉, 视力
+enhance, 提高, 增加
+shortly, 不久, 立刻
+limited, 有限的
+switch, 转换, 交换
+prospect, 展望, 前景
+recently, 不久前, 最近
+deal, 理想的, 空想的, 理想
+navigate, 导航, 航行
+autonomy, 自治, 自治权
+prey, 猎物
+critic, 批评者, 反对者, 评论家
+digital, 数字的, 数码的
+worldwide, 世界各地的
+victim, 受害者, 罹难者
+historic, 历史上著名的
+intend, 打算, 意指
+material, 材料, 原料
+instruction, 指示, 指导
+destruction, 摧毁, 毁灭
+multiple, 多种多样的
+foster, 促进, 培养
+facilitate, 促进, 使便利
+reference, 参考, 查阅
+delay, 延期, 延误
+regulation, 章程, 规章制度
+examine, 审查, 检验
+practical, 有用的, 实际的
+guideline, 准则, 指导原则
+urban, 城市的, 都市的
+suppose, 料想, 假定
+awareness, 认识, 意识
+crop, 庄稼, 作物
+exposure, 接触, 体验
+regular, 规则的
+creative, 创造性的
+perception, 感觉, 感知
+reject, 拒绝, 拒绝接受
+confident, 自信的
+strengthen, 加强, 增强
+equal, 同样的, 相等的
+protest, 抗议
+assume, 假定, 假设
+domestic, 本国的, 国内的
+integrate, 成为一体
+strike, 罢工
+argue, 论证, 争吵, 争论
+contemporary, 现代的
+longevity, 持久, 长寿
+budget, 预算
+billion, 十亿
+requirement, 要求
+devote, 专心于
+indicate, 表明, 显示
+capacity, 容量, 能力
+vital, 极其重要的
+integrity, 完整, 完好
+cultivate, 耕作, 培养
+equality, 均等, 平等
+update, 使现代化, 更新
+creation, 创作, 创建
+exact, 准确的, 确切的
+publish, 发布, 出版
+confront, 正视, 直面
+suspension, 暂停, 延缓
+rather, 相当, 而不是
+reduction, 减少, 缩小
+beforehand, 预先, 事先
+lifespan, 寿命
+medium, 中间的, 媒介
+increasingly, 越来越多地
+initiative, 倡议, 主动权executive, 行政的, 主管, 行政部门
+statistics, 统计学, 统计数字
+frame, 模式, 框架
+forum, (网上的) 论坛, 讨论会
+emerge, 浮现, 显露
+vulnerable, 脆弱的
+resemble, 像, 与...相似
+fellow, 同类的, 同伴的
+nut, 坚果
+signal, 标志, 表明, 预示, 信号
+trick, 花招, 把戏, 恶作剧
+credit, 信用, 借款, 贷款
+tear, 眼泪, 泪水
+deliver, 传达, 递送
+origin, 起源, 起因
+electronic, 电子的
+maintenance, 维护, 保养
+genius, 天赋, 天才
+review, 回顾, 书评
+surround, 围绕, 环绕
+criticism, 批评, 指责
+naturally, 自然地
+assert, 维护, 坚持
+handful, 少数, 一把
+facility, 设施, 设备
+northern, 北方的
+blame, 责怪
+division, 分开, 差异
+adventure, 冒险
+norm, 标准, 社会准则
+jam, 堵塞, 拥挤, 果酱
+stain, 污渍, 玷污
+optimism, 乐观, 乐观主义
+intense, 激烈的, 严重紧张的
+hardship, 艰难, 艰苦
+rarely, 罕有, 很少
+influential, 有影响力的
+ambitious, 有野心的
+misunderstand, 误解
+discourse, 语篇, 言语
+sustainable, 可持续的
+cooperate, 合作, 协作
+autonomous, 自治的, 有自治权的
+facial, 面部的
+approximately, 大概地
+conservation, 保护, 保持
+wildlife, 野生动物
+extensive, 广阔的, 大量的
+evolve, 进化, 演变
+military, 军事的, 军用的
+legal, 法律的, 合法的
+absence, 缺席, 缺乏
+progress, 进步, 进展
+drug, 药, 药物, 毒品
+marine, 海洋的, 海产的
+confirm, 证实, 确认
+expansion, 扩张, 扩展
+belong, 属于, 归属
+cancer, 癌, 癌症
+guard, 保卫, 看守
+harmful, 有害的
+shame, 羞愧, 让人遗憾的事
+council, 委员会, 地方议会
+persuade, 劝说, 说服
+fiction, 小说, 虚构的事
+corporation, 法人, (大) 公司
+superior, 更好的
+release, 发布, 释放, 解雇
+landscape, 风景
+burst, 爆裂
+extension, 延长期, 扩大
+adolescent, 青少年
+transport, 运输业, 交通
+accuracy, 准确性, 精确度
+stability, 稳定 (性)
+phase, 阶段, 时期
+apparently, 看来, 显然
+citizen, 公民
+latter, 后者的, 后者
+distribution, 分布, 分配
+operation, 运作, 操作, 手术, 企业
+arouse, 引起, 唤醒
+discipline, 纪律, 学科
+detailed, 详细的
+revolutionary, 革命的
+applicant, 申请人
