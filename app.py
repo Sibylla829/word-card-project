@@ -4,6 +4,8 @@ import json
 import os
 import random
 import base64
+import re
+import hashlib
 
 # ===================== 页面基础设置 =====================
 st.set_page_config(
@@ -12,7 +14,8 @@ st.set_page_config(
     layout="centered"
 )
 
-DATA_FILE = "word_data.json"
+DATA_DIR = "user_data"           # 每个用户的独立存档目录
+LEGACY_FILE = "word_data.json"   # 旧版公共存档（仅用于一次性迁移导入）
 
 # ===================== 气泡文案库 =====================
 praise_list = [
@@ -49,9 +52,24 @@ PET_IMAGES = {
     "cat_teaser": "pet_images/cat_teaser.png",
 }
 
-# ===================== 数据持久化函数 =====================
-def save_data():
-    data = {
+# ===================== 数据持久化函数（每个用户独立存档） =====================
+
+def safe_userid(uid):
+    """把用户ID转成安全的文件名（去掉路径非法字符）"""
+    name = re.sub(r'[\\/:*?"<>|\s]', '_', str(uid)).strip("_")
+    return name or "user"
+
+def user_file(userid):
+    """某个用户的存档文件路径：user_data/<用户ID>.json"""
+    return os.path.join(DATA_DIR, f"{safe_userid(userid)}.json")
+
+def hash_pwd(pwd):
+    """密码哈希（不存明文）"""
+    return hashlib.sha256(("wordcat-salt::" + str(pwd)).encode("utf-8")).hexdigest()
+
+def collect_data():
+    """把当前会话数据打包成存档字典"""
+    return {
         "marked": st.session_state.marked,
         "wrong_words": st.session_state.wrong_words,
         "checkin_date": str(st.session_state.checkin_date) if st.session_state.checkin_date else None,
@@ -70,19 +88,80 @@ def save_data():
         "pet_temp_until": st.session_state.pet_temp_until,
         "used_codes": st.session_state.get("used_codes", []),
         "spell_bonus_got": st.session_state.get("spell_bonus_got", False),
-        "last_bubble_text": st.session_state.get("last_bubble_text", "今天也要好好学单词哦🐱")
+        "last_bubble_text": st.session_state.get("last_bubble_text", "今天也要好好学单词哦🐱"),
+        "custom_words": st.session_state.get("custom_words", []),  # 用户自定义词库（随档保存）
     }
-    with open(DATA_FILE, "w", encoding="utf-8") as f:
+
+def save_data():
+    """保存当前登录用户的数据到 user_data/<用户ID>.json（未登录则不写）"""
+    if not st.session_state.get("logged_in"):
+        return
+    os.makedirs(DATA_DIR, exist_ok=True)
+    data = collect_data()
+    data["pwd_hash"] = st.session_state.get("pwd_hash", "")
+    with open(user_file(st.session_state.userid), "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-def load_data():
-    if not os.path.exists(DATA_FILE):
+def load_user_data(userid):
+    """读取某个用户的存档；不存在返回 None"""
+    path = user_file(userid)
+    if not os.path.exists(path):
         return None
     try:
-        with open(DATA_FILE, "r", encoding="utf-8") as f:
+        with open(path, "r", encoding="utf-8") as f:
             return json.load(f)
     except Exception:
         return None
+
+def init_default_session():
+    """初始化一份全新的默认数据（新用户 / 登录前的基底）"""
+    st.session_state.marked = {}
+    st.session_state.wrong_words = []
+    st.session_state.checkin_date = None
+    st.session_state.last_index = {"小学单词":0,"初中单词":0,"高中单词":0,"四六级单词":0}
+    st.session_state.achievements = []
+    st.session_state.daily_count = 0
+    st.session_state.username = ""
+    st.session_state.userid = ""
+    st.session_state.focus_start = None
+    st.session_state.focus_target_min = None
+    st.session_state.points = 0
+    st.session_state.spell_date = date.today()
+    st.session_state.today_spell_record = []
+    st.session_state.pet = {"name": "小粉猫", "hunger": 50, "happiness": 50, "equipped": []}
+    st.session_state.backpack = []
+    st.session_state.pet_last_decay_time = datetime.now().timestamp()
+    st.session_state.pet_temp_image = None
+    st.session_state.pet_temp_until = 0
+    st.session_state.used_codes = []
+    st.session_state.spell_bonus_got = False
+    st.session_state.last_bubble_text = "今天也要好好学单词哦🐱"
+    st.session_state.custom_words = []
+
+def apply_saved(saved):
+    """把读取到的存档覆盖到会话中"""
+    st.session_state.marked = saved.get("marked", {})
+    st.session_state.wrong_words = saved.get("wrong_words", [])
+    cd = saved.get("checkin_date")
+    st.session_state.checkin_date = date.fromisoformat(cd) if cd else None
+    st.session_state.last_index = saved.get(
+        "last_index", {"小学单词":0,"初中单词":0,"高中单词":0,"四六级单词":0})
+    st.session_state.achievements = saved.get("achievements", [])
+    st.session_state.daily_count = saved.get("daily_count", 0)
+    st.session_state.username = saved.get("username", st.session_state.username)
+    st.session_state.userid = saved.get("userid", st.session_state.userid)
+    st.session_state.points = saved.get("points", 0)
+    st.session_state.spell_date = date.fromisoformat(saved.get("spell_date", str(date.today())))
+    st.session_state.today_spell_record = saved.get("today_spell_record", [])
+    st.session_state.pet = saved.get("pet", st.session_state.pet)
+    st.session_state.backpack = saved.get("backpack", [])
+    st.session_state.pet_last_decay_time = saved.get("pet_last_decay_time", datetime.now().timestamp())
+    st.session_state.pet_temp_image = saved.get("pet_temp_image", None)
+    st.session_state.pet_temp_until = saved.get("pet_temp_until", 0)
+    st.session_state.used_codes = saved.get("used_codes", [])
+    st.session_state.spell_bonus_got = saved.get("spell_bonus_got", False)
+    st.session_state.last_bubble_text = saved.get("last_bubble_text", "今天也要好好学单词哦🐱")
+    st.session_state.custom_words = saved.get("custom_words", [])
 
 # ===================== 💖粉色主题样式 =====================
 st.markdown("""
@@ -173,6 +252,70 @@ st.markdown("""
 
 st.title("💖单词背诵打卡系统｜🐱宠物小猫")
 
+# ===================== 🔐 登录 / 注册（每人独立存档） =====================
+if not st.session_state.get("logged_in"):
+    st.subheader("🔐 账号")
+    st.caption("每个账号拥有完全独立的存档：学习进度、错题本、积分、宠物、自定义单词都只属于你自己。")
+
+    # 单选切换登录/注册，注册入口更显眼
+    mode = st.radio("请选择", ["🔑 登录已有账号", "🆕 注册新用户（第一次使用点这里）"],
+                    horizontal=True, label_visibility="collapsed")
+
+    if mode == "🔑 登录已有账号":
+        login_id = st.text_input("用户ID", key="login_id")
+        login_pwd = st.text_input("密码", type="password", key="login_pwd")
+        if st.button("登 录", type="primary", use_container_width=True):
+            uid = login_id.strip()
+            if not uid:
+                st.error("请输入用户ID！")
+            else:
+                saved = load_user_data(uid)
+                if saved is None:
+                    st.error("该用户ID不存在，请先注册～")
+                elif saved.get("pwd_hash") != hash_pwd(login_pwd):
+                    st.error("密码错误！")
+                else:
+                    init_default_session()
+                    apply_saved(saved)
+                    st.session_state.userid = uid           # 以登录输入的ID为准
+                    st.session_state.pwd_hash = saved.get("pwd_hash", "")
+                    st.session_state.logged_in = True
+                    st.rerun()
+    else:
+        reg_id = st.text_input("设置用户ID（唯一，用于区分存档）", key="reg_id")
+        reg_pwd = st.text_input("设置密码（至少4位）", type="password", key="reg_pwd")
+        reg_pwd2 = st.text_input("确认密码", type="password", key="reg_pwd2")
+        import_legacy = False
+        if os.path.exists(LEGACY_FILE):
+            import_legacy = st.checkbox("导入旧版公共存档（word_data.json）", value=False)
+        if st.button("注 册", type="primary", use_container_width=True):
+            uid = reg_id.strip()
+            if not uid:
+                st.error("请输入用户ID！")
+            elif load_user_data(uid) is not None:
+                st.error("该用户ID已被注册，换一个吧～")
+            elif len(reg_pwd) < 4:
+                st.error("密码至少4位！")
+            elif reg_pwd != reg_pwd2:
+                st.error("两次输入的密码不一致！")
+            else:
+                init_default_session()
+                st.session_state.userid = uid
+                st.session_state.username = uid
+                st.session_state.pwd_hash = hash_pwd(reg_pwd)
+                if import_legacy:
+                    try:
+                        with open(LEGACY_FILE, "r", encoding="utf-8") as f:
+                            apply_saved(json.load(f))
+                        st.session_state.userid = uid
+                    except Exception:
+                        pass
+                st.session_state.logged_in = True
+                save_data()
+                st.rerun()
+
+    st.stop()   # ⛔ 未登录时不渲染下面任何功能
+
 # ===================== 单词分类选择 =====================
 category = st.selectbox("📚选择单词分类",["小学单词","初中单词","高中单词","四六级单词"])
 
@@ -201,68 +344,14 @@ def load_words(category_name):
             pass
         return res
     word_list = read_txt(filename)
-    custom = read_txt("custom.txt")
-    word_list += custom
+    # ✅自定义单词改为每个用户独立（存在个人存档里，不再共用 custom.txt）
+    word_list += st.session_state.get("custom_words", [])
     return word_list
 
 word_list = load_words(category)
 
-# ===================== Session初始化 =====================
-if "init_done" not in st.session_state:
-    saved = load_data()
-    st.session_state.marked = {}
-    st.session_state.wrong_words = []
-    st.session_state.checkin_date = None
-    st.session_state.last_index = {"小学单词":0,"初中单词":0,"高中单词":0,"四六级单词":0}
-    st.session_state.achievements = []
-    st.session_state.daily_count = 0
-    st.session_state.username = "用户1"
-    st.session_state.userid = ""
-    st.session_state.focus_start = None
-    st.session_state.focus_target_min = None
-
-    # 宠物积分系统
-    st.session_state.points = 0
-    st.session_state.spell_date = date.today()
-    st.session_state.today_spell_record = []
-    st.session_state.pet = {
-        "name": "小粉猫",
-        "hunger": 50,
-        "happiness": 50,
-        "equipped": []
-    }
-    st.session_state.backpack = []
-    st.session_state.pet_last_decay_time = datetime.now().timestamp()
-    # 临时图片状态
-    st.session_state.pet_temp_image = None
-    st.session_state.pet_temp_until = 0
-    st.session_state.used_codes = []
-    st.session_state.spell_bonus_got = False
-    st.session_state.last_bubble_text = "今天也要好好学单词哦🐱"
-
-    if saved:
-        st.session_state.marked = saved.get("marked",{})
-        st.session_state.wrong_words = saved.get("wrong_words",[])
-        cd = saved.get("checkin_date")
-        st.session_state.checkin_date = date.fromisoformat(cd) if cd else None
-        st.session_state.last_index = saved.get("last_index",st.session_state.last_index)
-        st.session_state.achievements = saved.get("achievements",[])
-        st.session_state.daily_count = saved.get("daily_count",0)
-        st.session_state.username = saved.get("username","用户1")
-        st.session_state.userid = saved.get("userid","")
-        st.session_state.points = saved.get("points",0)
-        st.session_state.spell_date = date.fromisoformat(saved.get("spell_date", str(date.today())))
-        st.session_state.today_spell_record = saved.get("today_spell_record",[])
-        st.session_state.pet = saved.get("pet", st.session_state.pet)
-        st.session_state.backpack = saved.get("backpack",[])
-        st.session_state.pet_last_decay_time = saved.get("pet_last_decay_time", datetime.now().timestamp())
-        st.session_state.pet_temp_image = saved.get("pet_temp_image", None)
-        st.session_state.pet_temp_until = saved.get("pet_temp_until", 0)
-        st.session_state.used_codes = saved.get("used_codes", [])
-        st.session_state.spell_bonus_got = saved.get("spell_bonus_got", False)
-        st.session_state.last_bubble_text = saved.get("last_bubble_text", "今天也要好好学单词哦🐱")
-
-    st.session_state.init_done = True
+# ===================== 会话数据已由登录流程初始化 =====================
+# （登录成功后：init_default_session() + apply_saved() 已填好全部字段）
 
 # ===================== ✅宠物属性定时衰减逻辑 =====================
 def pet_decay():
@@ -882,9 +971,11 @@ elif menu == "✏️新增单词":
     new_cn = st.text_input("中文释义")
     if st.button("➕添加"):
         if new_en and new_cn:
-            with open("custom.txt","a",encoding="utf-8") as f:
-                f.write(f"{new_en},{new_cn}\n")
-            st.success("✅单词已保存到 custom.txt！切换词库会读取自定义单词")
+            # ✅保存到当前用户的独立词库（随存档保存，仅本人可见）
+            st.session_state.custom_words.append(
+                {"word": new_en.strip(), "meaning": new_cn.strip()})
+            save_data()
+            st.success("✅单词已加入你的自定义词库（仅本人可见）！切换词库时会附带这些单词")
         else:
             st.warning("英文和中文都不能为空！")
 
@@ -1047,12 +1138,22 @@ elif menu == "⚙️设置":
     st.subheader("⚙️系统设置")
     st.divider()
     st.write("👤个人资料")
-    new_username = st.text_input("用户名", value=st.session_state.username)
-    new_userid = st.text_input("用户ID", value=st.session_state.userid)
+    st.text_input("用户ID（登录账号，不可修改）", value=st.session_state.userid, disabled=True)
+    new_username = st.text_input("昵称", value=st.session_state.username)
     if st.button("💾保存资料"):
         st.session_state.username = new_username
-        st.session_state.userid = new_userid
         save_and_rerun()
+
+    st.divider()
+    st.subheader("🚪账号")
+    st.write(f"当前登录：**{st.session_state.userid}**（存档文件：`user_data/{safe_userid(st.session_state.userid)}.json`）")
+    if st.button("🚪退出登录（切换账号）"):
+        st.session_state.logged_in = False
+        # 清掉本会话数据，避免串档
+        for k in ["marked","wrong_words","pet","backpack","achievements","today_spell_record",
+                  "custom_words","last_index","current_index","shuffled_list"]:
+            st.session_state.pop(k, None)
+        st.rerun()
 
     st.divider()
     st.subheader("🎁兑换码")
